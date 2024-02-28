@@ -7,7 +7,7 @@ layout: default
 
 SMART on FHIR provides reliable, secure authorization for a variety of app
 architectures through the use of the OAuth 2.0 standard.  The Launch Framework
-supports the [uses cases](https://confluence.hl7.org/display/VA/SoA+Use+Cases)
+supports the [uses cases](https://smarthealthit.org/smart-on-fhir-api/)
 defined in [Argonaut
 Project](https://confluence.hl7.org/display/AP).
 
